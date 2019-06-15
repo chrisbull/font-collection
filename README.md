@@ -1,28 +1,28 @@
 # Font Collection
 
 ## CeraPro
-![CeraPro](./images/CeraPro.jpg)
+![CeraPro](https://github.com/chrisbull/font-collection/blob/master/Images/CeraPro.jpg?raw=true)
 
 ## Cereal
-![Cereal](./images/Cereal.png)
+![Cereal](https://github.com/chrisbull/font-collection/blob/master/Images/Cereal.png?raw=true)
 
 ## Circular
-![Circular](./images/Circular.png)
+![Circular](https://github.com/chrisbull/font-collection/blob/master/Images/Circular.png?raw=true)
 
 ## Gilroy
-![Gilroy](./images/Gilroy.png)
+![Gilroy](https://github.com/chrisbull/font-collection/blob/master/Images/Gilroy.png?raw=true)
 
 ## GoogleSans
-![GoogleSans](./images/GoogleSans.png)
+![GoogleSans](https://github.com/chrisbull/font-collection/blob/master/Images/GoogleSans.png?raw=true)
 
 ## Muller
-![Muller](./images/Muller.jpg)
+![Muller](https://github.com/chrisbull/font-collection/blob/master/Images/Muller.jpg?raw=true)
 
 ## SFPro
-![SFPro](./images/SFPro.jpg)
+![SFPro](https://github.com/chrisbull/font-collection/blob/master/Images/SFPro.jpg?raw=true)
 
 ## TT.Commons
-![TT.Commons](./images/TT.Commons.jpg)
+![TT.Commons](https://github.com/chrisbull/font-collection/blob/master/Images/TT.Commons.jpg?raw=true)
 
 Enjoy it 🙌
 
@@ -53,3 +53,4 @@ Enjoy it 🙌
 - SourceSansPro
 - Titillium
 - VentiCF
+[VentiCF](https://github.com/chrisbull/font-collection/blob/master/Images/Venti.jpg?raw=true)
